@@ -4,6 +4,9 @@
 ![](https://img.shields.io/badge/MediaMarkt-DF0000.svg?style=for-the-badge&logo=MediaMarkt&logoColor=white)
 ![](https://img.shields.io/badge/Saturn-EB680B.svg?style=for-the-badge&logo=Saturn&logoColor=white)
 
+## 📢 Hiring
+[![Professional Position Fullstack Developer](https://img.shields.io/badge/Professional_Position_Fullstack_Developer-1898d1?style=for-the-badge)](https://careers.mediamarktsaturn.com/MediaMarktSaturn/job/Ingolstadt-%28Senior%29-Backend-Developer-%28mfd%29-Marketing-Ressource-Management-Campaign-Planning-85046/803316501/)
+
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kharf) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@kharf_)
 
