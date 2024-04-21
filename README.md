@@ -2,7 +2,7 @@
 
 Passionate about GitOps, Cloud Native and Kubernetes.
 
-Currently exploring Nix and Cue.
+Currently exploring Nix and CUE.
 
 Also working on a GitOps Toolkit called [declcd](https://github.com/kharf/declcd), mainly for educational purposes. It is designed for Kubernetes, utilizing the power of CUE instead of YAML for configuration.
 
